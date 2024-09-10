@@ -2,7 +2,7 @@
 
 ####  Variáveis Quantitativas e Qualitativas
 
-![alt text](image.png)
+![alt text](imgs/variáveis_estatística.png)
 
 #### Distribuição de Frequências
 
